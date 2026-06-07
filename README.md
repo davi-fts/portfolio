@@ -1,21 +1,15 @@
-# portfolio# Stock Data Analyzer (Python + yfinance)
+# Software Engineering Portfolio
 
-This project was originally created as my final assignment for **CSE 111**. It is a clean, straightforward Python tool that automates the retrieval of historical market data and brings key corporate financial insights straight to the terminal.
-
----
-
-## 🛠️ What it does
-
-* **Fetches historical prices:** Integrates with the Yahoo Finance API to pull asset price history and volume data over custom timeframes.
-* **Displays company insights:** Instantly retrieves key corporate metadata like country of origin, analyst recommendations, and market capitalization for major tickers (e.g., Tesla, Apple, Google).
-* **Automated testing suite:** Includes a testing pipeline built with `pytest` to ensure that data structures, columns, and API responses never break.
+Welcome to my portfolio! This repository centralizes my personal projects, academic work, and tools focused on backend development, databases, and financial automation.
 
 ---
 
-## 🚀 How to run it locally
+## 📂 Featured Projects
 
-### 1. Install dependencies
-Make sure you have Python installed. In your terminal, run:
-```bash
-pip install yfinance pandas pytest
-A collection of backend systems, data pipelines, and tools built to solve real-world problems in management, automation, and data optimization.
+### 📈 [Stock Data Analyzer](./stock_analyzer)
+A clean Python tool that automates the retrieval of historical market data and corporate financial insights directly to the terminal using the Yahoo Finance API.
+* **Tech Stack:** Python, `yfinance`, Pandas, `pytest`.
+* **Status:** Complete (Final project for CSE 111).
+
+---
+*Building logic-heavy systems, data pipelines, and exploring the intersection of technology and finance.*
